@@ -1,0 +1,1 @@
+'AAPL', 'INTC', 'FEYE', 'PLTR', 'MSFT', 'AMD', 'BB', 'CSCO', 'ORCL', 'MRVL', 'HPE', 'UBER', 'MU', 'NOK', 'HPQ', 'CRWD', 

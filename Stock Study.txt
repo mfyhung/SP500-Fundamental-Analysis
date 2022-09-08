@@ -1,0 +1,10 @@
+PE值高低 pe ratio
+現金流數字
+派息高低
+gross profit
+profit margin
+earning per share
+sales amount
+
+Today Stock Data - A specific date Stock Data (Not the market price)
+
